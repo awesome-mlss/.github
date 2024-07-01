@@ -1,42 +1,19 @@
-# Welcome to [Awesome MLSS](https://awesome-mlss.com)!
+## Hello 👋, welcome to awesome-mlss!
 
-<p align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://awesome-mlss.com"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fawesome-mlss.com"></a>
-  <a href="https://x.com/awesomeMLSS"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/awesomeMLSS?style=social"></a>
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/awesome-mlss/awesome-mlss">
-  <img alt="Stars" src="https://img.shields.io/github/stars/awesome-mlss/awesome-mlss?style=social">
-  <img alt="Forks" src="https://img.shields.io/github/forks/awesome-mlss/awesome-mlss?style=social">
-</p>
+* **What we do:** We maintain the awesome-mlss 🌐 [website](https://awesome-mlss.com), 🐦 [twitter](https://x.com/awesomeMLSS) and 🗞️ newsletter (coming soon).
+* **Who are we:** We are past participants, organizers,  in similar summer schools, who are now graduate students or industry researchers.
 
-Welcome to the official GitHub organization of Awesome MLSS. Here, we maintain the repositories that power [awesome-mlss.com](https://awesome-mlss.com), a comprehensive resource for machine learning summer school deadlines and opportunities. Our goal is to provide up-to-date and accessible information to help the community stay informed about learning opportunities in machine learning.
+### 🔧 Contributing
+We are completely volunteer run, and welcome contributions in all forms. Please see our [contributing guide](https://github.com/awesome-mlss/awesome-mlss) for more details. If you are interested in being a maintainer, please drop us an email at `admin@awesome-mlss.com`.
 
-## 📈 Statistics
-<p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/awesome-mlss/awesome-mlss">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/awesome-mlss/awesome-mlss">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/awesome-mlss/awesome-mlss">
-  <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/awesome-mlss/awesome-mlss">
-</p>
+### 📈 Statistics
 
-## 👥 Maintainers
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=159916548" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=159916548&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of awesome-mlss/awesome-mlss - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=159916548&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
 
-| ![Shashank Shekhar](https://github.com/sshkhr.png?size=100) | ![Gabriele Berton](https://github.com/gmberton.png?size=100) | ![S M Sarwar](https://github.com/smsnobin77.png?size=100) |
-| :---------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: |
-| Shashank Shekhar                                             | Gabriele Berton                                               | S M Sarwar                                               |
-| [@sshkhr](https://github.com/sshkhr)                         | [@gmberton](https://github.com/gmberton)                   | [@smsnobin77](https://github.com/smsnobin77)                 |
-
-
-
-## ⭐ Stargazers over time
-[![Stargazers over time](https://starchart.cc/awesome-mlss/awesome-mlss.svg)](https://starchart.cc/awesome-mlss/awesome-mlss)
-
-## 📚 Resources
-- [Website](https://awesome-mlss.com)
-- [Twitter](https://x.com/awesomeMLSS)
-
-## 🤝 How to Contribute
-Awesome MLSS is completely volunteer-run. We welcome contributions of all forms. Please see our [contributing guide](https://github.com/awesome-mlss/awesome-mlss) for more details on how you can contribute.
-
-## 📄 License
-This project is under the MIT License.
+### 📄 License
+All our code is under the MIT License.
